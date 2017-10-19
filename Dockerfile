@@ -1,4 +1,4 @@
-FROM ubuntu:14.04
+FROM ubuntu:16.04
 MAINTAINER James Turnbull <james@lovedthanlost.net>
 
 RUN apt-get -qqy update
